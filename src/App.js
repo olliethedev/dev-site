@@ -1,4 +1,5 @@
-import logo from './logo.svg';
+import logo from './ollie.png';
+import git from './github.ico';
 import './App.css';
 
 function App() {
@@ -6,16 +7,16 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <h1>
+          Ollie Codes
+        </h1>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/olliethedev"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          <img src={git} alt="github" />
         </a>
       </header>
     </div>
