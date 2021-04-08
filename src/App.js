@@ -12,6 +12,14 @@ function App() {
         </h1>
         <a
           className="App-link"
+          href="https://blog.olliecodes.com"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <h5>Blog</h5>
+        </a>
+        <a
+          className="App-link"
           href="https://github.com/olliethedev"
           target="_blank"
           rel="noopener noreferrer"
