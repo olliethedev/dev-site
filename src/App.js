@@ -14,6 +14,9 @@ function App() {
         <a className="App-link" href="https://blog.olliecodes.com/portfolio">
           <b>Portfolio</b>
         </a>
+        <a className="App-link" href="https://blog.olliecodes.com/experiments">
+          <b>Experiments</b>
+        </a>
         <a className="App-link" href="https://github.com/olliethedev">
           <img src={git} alt="github" />
         </a>
