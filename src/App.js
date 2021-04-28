@@ -20,6 +20,14 @@ function App() {
         </a>
         <a
           className="App-link"
+          href="https://blog.olliecodes.com/portfolio"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <h5>Portfolio</h5>
+        </a>
+        <a
+          className="App-link"
           href="https://github.com/olliethedev"
           target="_blank"
           rel="noopener noreferrer"
