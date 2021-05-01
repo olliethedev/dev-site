@@ -1,5 +1,6 @@
 import logo from "./ollie.png";
 import git from "./github.ico";
+import "./fonts/inter.css";
 import "./App.css";
 
 function App() {
